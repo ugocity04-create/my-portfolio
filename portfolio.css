@@ -319,11 +319,7 @@ footer {
     }
 
     #about {
-        padding: 60px 25px;
-    }
-
-    .about-container {
-        flex-direction: column;
+        padding: 60px;
     }
 
     .projects-grid {
